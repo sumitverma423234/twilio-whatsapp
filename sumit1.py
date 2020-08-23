@@ -78,7 +78,8 @@ def get_dictionary_response(word):
     synonyms = ["sorry, no synonyms are available."]
     antonyms = ["sorry, no antonyms are available."]
 
-    url = f"https://www.dictionaryapi.com/api/v3/references/thesaurus/json/{word}?key=a7eb276e-753c-49bf-8dc4-5ed701e8cf85"
+    url = f"https://www.dictionaryapi.com/api/v3/references/thesaurus/json/{word}?key=!"
+    #key is unique to user.
     response = requests.get(url)
     api_response = json.loads(response.text)
     if response.status_code == 200:
