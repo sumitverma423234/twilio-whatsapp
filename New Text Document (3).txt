@@ -36,7 +36,7 @@ It enables multiple side-by-side installations of Python, one for each project.
 
 
  
-It doesn’t actually install separate copies of Python, but it does provide a
+It doesnâ€™t actually install separate copies of Python, but it does provide a
 clever way to keep different project environments isolated.
 
 ((https://www.pythonforbeginners.com/basics/how-to-use-python-virtualenv)) -- python virtual environment basics.
@@ -45,3 +45,4 @@ clever way to keep different project environments isolated.
 link @ copy and paste it on google
 
 8.how to install python 3 on windows 10 --((https://www.digitalocean.com/community/tutorials/how-to-install-python-3-and-set-up-a-local-programming-environment-on-windows-10))
+9. ---- what i learnt at last good coding practice is req.,awareness should be there while u code.------
