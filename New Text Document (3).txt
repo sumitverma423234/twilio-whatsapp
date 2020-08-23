@@ -1,0 +1,47 @@
+twilio-whatsapp project
+1. 1 learnt how pycharm works.(basics)
+    PyCharm is an integrated development environment (IDE) used in computer programming, specifically for the Python language. It is developed by the Czech company JetBrains.[6] It provides code analysis, a graphical debugger, an integrated unit tester, integration with version control systems (VCSes), and supports web development with Django as well as Data Science with Anaconda.
+       
+ (copy this link for basics - https://www.youtube.com/watch?v=56bPIGf4us0)
+
+2.I learnt about ngrok.
+ngrok is a cross-platform application that enables developers to expose a local development server to the Internet with minimal effort. The software makes your locally-hosted web server appear to be hosted on a subdomain of ngrok.com, meaning that no public IP or domain name on the local machine is needed. Similar functionality can be achieved with Reverse SSH Tunneling, but this requires more setup as well as hosting of your own remote server.
+    
+(https://ngrok.com/download -- this is place where u can download ngrok)-copy this link
+
+3.I learnt how to launch an app with command prompt(CMD)
+
+The Command Prompt is a powerful tool for Windows computer users who are willing to get their hands dirty and learn new things. We hope that this article was useful in helping you learn the basics of running commands in the Command Prompt. If you have any questions about it, do not hesitate to leave us a comment below.
+((https://www.digitalcitizen.life/command-prompt-how-use-basic-commands)) -- link to cmd basics
+
+4.I learnt about webhooks.
+A webhook in web development is a method of augmenting or altering the behavior of a web page or web application with custom callbacks. These callbacks may be maintained, modified, and managed by third-party users and developers who may not necessarily be affiliated with the originating website or application. The term "webhook" was coined by Jeff Lindsay in 2007 from the computer programming term hook.[1]
+
+The format is usually JSON. The request is done as an HTTP POST request.
+(https://www.youtube.com/watch?v=aLjSNfoJCYc&list=PLqrz4nXepkz5sdhaee8F5HXoLqp_ZiVn6)-- link to webhook @ vid.
+
+5.I learnt what is twilio
+Twilio is a cloud communications platform as a service (CPaaS) company based in San Francisco, California. Twilio allows software developers to programmatically make and receive phone calls, send and receive text messages, and perform other communication functions using its web service APIs.
+
+(https://www.twilio.com/docs/autopilot/quickstart/python-quickstart) --- twilio docs @ quickstart
+
+(https://www.youtube.com/watch?v=XhcXpKGeHic)--twilio link how to build your first twilio app in 5 minutes.
+
+6 I learnt about how to use python virtual environment
+
+   A Virtual Environment, put simply, is an isolated working copy of Python which
+allows you to work on a specific project without worry of affecting other projects
+
+It enables multiple side-by-side installations of Python, one for each project.
+
+
+ 
+It doesn’t actually install separate copies of Python, but it does provide a
+clever way to keep different project environments isolated.
+
+((https://www.pythonforbeginners.com/basics/how-to-use-python-virtualenv)) -- python virtual environment basics.
+
+7 . How to install python package --- (https://packaging.python.org/tutorials/installing-packages/)
+link @ copy and paste it on google
+
+8.how to install python 3 on windows 10 --((https://www.digitalocean.com/community/tutorials/how-to-install-python-3-and-set-up-a-local-programming-environment-on-windows-10))
